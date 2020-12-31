@@ -17,6 +17,8 @@
 https://img.shields.io/badge/%20-Python-red https://img.shields.io/badge/%20-Django-yellow https://img.shields.io/badge/%20-Openstack-blue https://img.shields.io/badge/%20-Hyperledger%20Fabric-lightgrey
 Python, Django, C++, Openstack, Hyperledger Fabric
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
