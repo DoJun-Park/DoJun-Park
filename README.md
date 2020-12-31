@@ -14,11 +14,12 @@
 <br>
 
 ### Tech Stack 
+<img src="https://img.shields.io/badge/%20-C%2B%2B-white"/></a>
 <img src="https://img.shields.io/badge/%20-Python-red"/></a>
 <img src="https://img.shields.io/badge/%20-Django-yellow"/></a>
 <img src="https://img.shields.io/badge/%20-Openstack-blue"/></a>
 <img src="https://img.shields.io/badge/%20-Hyperledger%20Fabric-lightgrey"/></a>
-<img src="https://img.shields.io/badge/%20-C%2B%2B-white"/></a>
+
 
 
 
