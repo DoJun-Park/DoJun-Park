@@ -1,18 +1,15 @@
-### Hi there 👋
+## Hello, I'm DoJun! 👋
 
 
-**DoJun-Park/DoJun-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+|Type|Date|Contents|Organization|
+|---|---|---|---|
+|Education|2016.3 ~ |Department of computer Science and Engineering|Pusan National Univ.|
+|External activities|2019.12.26 ~ 2020.1.23|programming|KAIST 몰입캡프|
+|Research and development|2020.4 ~ 2020.10|Building a Cloud with OpenStack|Software Engineering Lab|
+|External activities|2020.10 ~|IBM C:LOUDERs|IBM|
+|Research and development|2020.11 ~ 2020.12|BlockChain|Software Engineering Lab|
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
   
