@@ -11,8 +11,12 @@
 |External activities|2020.10 ~|IBM C:LOUDERs|IBM|
 |Research and development|2020.11 ~ 2020.12|BlockChain|Software Engineering Lab|
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
-  
+<br>
+
 ### Tech Stack 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+https://img.shields.io/badge/%20-Python-red https://img.shields.io/badge/%20-Django-yellow https://img.shields.io/badge/%20-Openstack-blue https://img.shields.io/badge/%20-Hyperledger%20Fabric-lightgrey
 Python, Django, C++, Openstack, Hyperledger Fabric
+
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
