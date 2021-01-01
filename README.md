@@ -1,7 +1,7 @@
 ## Hello, I'm DoJun! 👋   
 
 
-👉 I'm interested in the cloud and blockchain.     
+👉 I'm interested in **cloud and blockchain**.     
 👉 I like to learn and share new technologies.    
 
 <br>
