@@ -12,7 +12,7 @@
 |---|---|---|---|
 |Education|2016.3 ~ |Department of computer Science and Engineering|Pusan National Univ.|
 |External activities|2019.12 ~ 2020.1|programming|KAIST 몰입캡프|
-|Research and development|2020.4 ~ 2020.10|Building a Cloud with OpenStack|Software Engineering Lab|
+|Research and development|2020.5 ~ 2020.11|Building a Cloud with OpenStack|Software Engineering Lab|
 |External activities|2020.10 ~|Cloud|IBM C:LOUDERs|
 |Research and development|2020.11 ~ 2020.12|BlockChain|Software Engineering Lab|
 
