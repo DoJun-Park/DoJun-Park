@@ -1,7 +1,5 @@
-## Hello, I'm DoJun! 👋   
-
-
-👉 I'm interested in **cloud and blockchain**.     
+## Hello, I'm DoJun! 👋     
+Welcome to my GitHub place. I am a senior majoring in computer Science and Engineering. I'm interested in **cloud and blockchain**.    
 👉 I like to learn and share new technologies.    
 
 <br>
