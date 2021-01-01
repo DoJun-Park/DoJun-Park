@@ -1,5 +1,13 @@
 ## Hello, I'm DoJun! 👋
 
+I'm interested in the cloud and blockchain.
+I like to learn and share new technologies.
+
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ### Experience
 
@@ -23,6 +31,3 @@
 
 
 
-<br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
