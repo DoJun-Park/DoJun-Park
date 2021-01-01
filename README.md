@@ -1,11 +1,12 @@
 ## Hello, I'm DoJun! 👋
 
-+ I'm interested in the cloud and blockchain.
-+ I like to learn and share new technologies.
+
+👉 I'm interested in the cloud and blockchain.     
+👉 I like to learn and share new technologies.    
 
 <br>
 
-### Experience
+### 🚶‍♂ Experience
 
 |Type|Date|Contents|Organization|
 |---|---|---|---|
@@ -17,7 +18,7 @@
 
 <br>
 
-### Tech Stack 
+### 👨‍💻 Tech Stack 
 <img src="https://img.shields.io/badge/%20-C%2B%2B-white"/></a>
 <img src="https://img.shields.io/badge/%20-Python-red"/></a>
 <img src="https://img.shields.io/badge/%20-Django-yellow"/></a>
