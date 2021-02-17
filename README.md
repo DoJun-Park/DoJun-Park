@@ -12,6 +12,9 @@ And I like to learn and share new technologies.
 |External activities|2020.10 ~2021.1|Cloud|IBM C:LOUDERs|
 |Research and development|2020.11 ~ 2020.12|BlockChain|Software Engineering Lab|     
 
+### 🎖 Certificate
++ AWS Solutions Architect Associate
+
 ### 👨‍💻 Tech Stack 
 <img src="https://img.shields.io/badge/%20-C%2B%2B-white"/></a>
 <img src="https://img.shields.io/badge/%20-Python-red"/></a>
