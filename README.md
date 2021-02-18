@@ -13,7 +13,7 @@ And I like to learn and share new technologies.
 |Research and development|2020.11 ~ 2020.12|BlockChain|Software Engineering Lab|     
 
 ### 🎖 Certificate
-+ AWS Solutions Architect Associate
++ [AWS Solutions Architect Associate](https://github.com/DoJun-Park/AWS-SAA)
 
 ### 👨‍💻 Tech Stack 
 <img src="https://img.shields.io/badge/%20-C%2B%2B-white"/></a>
