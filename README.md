@@ -11,7 +11,7 @@ And I like to learn and share new technologies.
 |Research and development|2020.5 ~ 2020.11|Building Cloud with OpenStack|Software Engineering Lab|
 |External activities|2020.10 ~2021.1|Cloud|IBM C:LOUDERs|
 |Research and development|2020.11 ~ |BlockChain|Software Engineering Lab|
-|Research and development|2020.11 ~ |Building Cloud with OpenStack & CloudStack|Software Engineering Lab|
+|Research and development|2021.02 ~ |Building Cloud with OpenStack & CloudStack|Software Engineering Lab|
 
 ### 🎖 Certificate
 + [AWS Solutions Architect Associate](https://github.com/DoJun-Park/AWS-SAA)
