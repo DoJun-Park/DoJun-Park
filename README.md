@@ -23,6 +23,6 @@ And I like to learn and share new technologies.
 <img src="https://img.shields.io/badge/%20-Go-gray"/></a>
 <img src="https://img.shields.io/badge/%20-Django-yellow"/></a>
 <img src="https://img.shields.io/badge/%20-Openstack-blue"/></a>
-<img src="https://img.shields.io/badge/%20-Hyperledger%20Fabric-lightgrey"/></a>     
+<img src="https://img.shields.io/badge/%20-Hyperledger%20Fabric-blue"/></a>     
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
