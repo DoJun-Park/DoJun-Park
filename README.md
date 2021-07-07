@@ -18,7 +18,6 @@ And I like to learn and share new technologies.
 
 
 ### 👨‍💻 Tech Stack 
-<img src="https://img.shields.io/badge/%20-C%2B%2B-white"/></a>
 <img src="https://img.shields.io/badge/%20-Python-purple"/></a>
 <img src="https://img.shields.io/badge/%20-Go-gray"/></a>
 <img src="https://img.shields.io/badge/%20-Django-yellow"/></a>
