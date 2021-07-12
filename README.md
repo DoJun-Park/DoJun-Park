@@ -6,10 +6,10 @@ And I like to learn and share new technologies.
 
 |Type|Date|Contents|Organization|
 |---|---|---|---|
-|Education|2016.3 ~ |Department of computer Science and Engineering|Pusan National Univ.|
-|External activities|2019.12 ~ 2020.1|programming|[KAIST 몰입캡프](https://www.madcamp.io/)|
-|Research and development|2020.5 ~ 2020.11|Building Cloud with OpenStack|Software Engineering Lab|
-|External activities|2020.10 ~2021.1|Cloud|IBM C:LOUDERs|
+|Education|2016.03 ~ |Department of computer Science and Engineering|Pusan National Univ.|
+|External activities|2019.12 ~ 2020.01|programming|[KAIST 몰입캡프](https://www.madcamp.io/)|
+|Research and development|2020.05 ~ 2020.11|Building Cloud with OpenStack|Software Engineering Lab|
+|External activities|2020.10 ~2021.01|Cloud|IBM C:LOUDERs|
 |Research and development|2020.11 ~ |BlockChain|Software Engineering Lab|
 |Research and development|2021.02 ~ |Building Cloud with OpenStack & CloudStack|Software Engineering Lab|
 
