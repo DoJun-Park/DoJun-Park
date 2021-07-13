@@ -1,5 +1,5 @@
 ## Hello, I'm DoJun! 👋     
-Welcome to my GitHub place!! I am a senior majoring in **computer Science and Engineering**. I'm interested in **Cloud Infra**.   
+Welcome to my GitHub place!! I am a senior majoring in **computer Science and Engineering**. I'm interested in **Cloud Infra** and **DevOps**.   
 And I like to learn and share new technologies.    
 
 ### 🚶‍♂ Experience
