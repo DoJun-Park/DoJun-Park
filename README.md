@@ -10,8 +10,10 @@ And I like to learn and share new technologies.
 |External activities|2019.12 ~ 2020.01|programming|[KAIST 몰입캡프](https://www.madcamp.io/)|
 |Research and development|2020.05 ~ 2020.11|Building Cloud with OpenStack|Software Engineering Lab|
 |External activities|2020.10 ~2021.01|Cloud|IBM C:LOUDERs|
-|Research and development|2020.11 ~ |BlockChain|Software Engineering Lab|
-|Research and development|2021.02 ~ |Building Cloud with OpenStack & CloudStack|Software Engineering Lab|
+|Research and development|2020.11 ~ 2021.08|BlockChain|Software Engineering Lab|
+|Research and development|2021.02 ~ 2021.08|Building Cloud with OpenStack & CloudStack|Software Engineering Lab|
+|SW Engineer Intern|2021.08 ~ |DevOps|[NexCloud](https://www.nexcloud.co.kr/)|
+
 
 ### 🎖 Certificate
 + [AWS Solutions Architect Associate](https://github.com/DoJun-Park/AWS-SAA)
