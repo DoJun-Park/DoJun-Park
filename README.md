@@ -25,7 +25,4 @@ And I like to learn and share new technologies.
 <img src="https://img.shields.io/badge/%20-Openstack-green"/></a>
 <img src="https://img.shields.io/badge/%20-Terraform-blue"/></a>     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park)](https://github.com/anuraghazra/github-readme-stats)
