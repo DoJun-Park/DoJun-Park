@@ -12,7 +12,7 @@ And I like to learn and share new technologies.
 |External activities|2020.10 ~2021.01|Cloud|IBM C:LOUDERs|
 |Research and development|2020.11 ~ 2021.08|BlockChain|Software Engineering Lab|
 |Research and development|2021.02 ~ 2021.08|Building Cloud with OpenStack & CloudStack|Software Engineering Lab|
-|SW Engineer Intern|2021.08 ~ |CloudNative,DevOps|[NexCloud](https://www.nexcloud.co.kr/)|
+|DevOps Engineer|2021.08 ~ |CloudNative,DevOps|[NexCloud](https://www.nexcloud.co.kr/)|
 
 
 ### 🎖 Certificate
