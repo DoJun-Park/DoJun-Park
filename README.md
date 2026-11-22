@@ -1,4 +1,4 @@
-안녕하세요, DevOps 엔지니어 박도준입니다.
+Hi, I’m DoJun Park, a DevOps engineer.
 
 ### About me
 
