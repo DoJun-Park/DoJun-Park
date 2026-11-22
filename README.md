@@ -1,16 +1,10 @@
-## Hello, I'm DoJun! 👋     
-Welcome to my GitHub place!! I am a senior majoring in **computer Science and Engineering**. I'm interested in **Cloud Infra** and **DevOps**.   
-And I like to learn and share new technologies.    
+안녕하세요, DevOps 엔지니어 박도준입니다.
 
+### About me
 
-### 🎖 Certificate
-+ [AWS Solutions Architect Associate](https://github.com/DoJun-Park/AWS-SAA)
+- I work as a DevOps engineer at [BBROS](https://www.bbros.co.kr/).
+- I automate repetitive tasks.
+- Lately, I’ve been especially interested in AI/ML and security.
 
-
-### 👨‍💻 Tech Stack 
-<img src="https://img.shields.io/badge/%20-Python-purple"/></a>
-<img src="https://img.shields.io/badge/%20-Django-yellow"/></a>
-<img src="https://img.shields.io/badge/%20-Openstack-green"/></a>
-<img src="https://img.shields.io/badge/%20-Terraform-blue"/></a>     
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoJun-Park&&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DoJun-Park&amp;show_icons=true&amp;hide_rank=true&amp;card_width=360&amp;theme=github_dark"><img alt="GitHub 활동 통계" src="https://github-readme-stats.vercel.app/api?username=DoJun-Park&amp;show_icons=true&amp;hide_rank=true&amp;card_width=360"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DoJun-Park&amp;layout=compact&amp;langs_count=6&amp;card_width=280&amp;theme=github_dark"><img alt="공개 저장소 언어 비중" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoJun-Park&amp;layout=compact&amp;langs_count=6&amp;card_width=280"></picture>
